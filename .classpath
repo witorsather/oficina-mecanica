@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ads4-projeto-integrador/src/main/java"/>
+	<classpathentry kind="src" path="ads4-projeto-integrador/src/test/java"/>
+	<classpathentry kind="src" path="backup/oficina-mecanica-calaca/src/main/java"/>
+	<classpathentry kind="src" path="backup/oficina-mecanica-calaca/src/test/java"/>
+	<classpathentry kind="src" path="backup/oficina-mecanica-jpa-service/src/main/java"/>
+	<classpathentry kind="src" path="backup/oficina-mecanica-jpa-service/src/test/java"/>
+	<classpathentry kind="src" path="syspdv/src/main/java"/>
+	<classpathentry kind="src" path="syspdv/src/test/java"/>
+	<classpathentry kind="lib" path="ads4-projeto-integrador/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="ads4-projeto-integrador/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="backup/oficina-mecanica-calaca/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="backup/oficina-mecanica-calaca/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="backup/oficina-mecanica-jpa-service/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="ads4-projeto-integrador/target/classes"/>
+</classpath>
